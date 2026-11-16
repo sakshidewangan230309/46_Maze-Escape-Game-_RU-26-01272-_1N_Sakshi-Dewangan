@@ -1,3 +1,4 @@
+Maze-Escape-Game
 A console maze game in **Python 3**. Move with **W/A/S/D** and reach the exit **E**. The program also finds the **shortest path** using **BFS**.
 
 Made for B.Tech CSE (First Semester), Rungta International Skills University.
